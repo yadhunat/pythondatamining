@@ -1,4 +1,4 @@
-# python data mining
+# Python data mining
 
 The program implements hierarchical clustering using CURE algorithm. 
 The algorithm works by clustering random samples of a large data set or database, eliminates outliers and then applies this
